@@ -3,19 +3,27 @@
 Secure Privet Notes is a robust Flutter application designed to keep your notes safe and easily accessible.
  With Secure Notes, you can manage your notes with ease, ensuring your sensitive information remains private and secure.
 
- 
 ## Screenshots
 
-![Screenshot 1](screenshots/home.jpg)
-![Screenshot 2](screenshots/login.jpg)
-![Screenshot 3](screenshots/drawer.jpg)
-![Screenshot 4](screenshots/backup-restore.jpg)
-![Screenshot 5](screenshots/passcode.jpg)
+<table>
 
+  <tr>
+    <td><img src="/screenshots/home.jpg" width=270 ></td>
+    <td><img src="/screenshots/add-note.jpg" width=270 ></td>
+    <td><img src="/screenshots/drawer.jpg" width=270 ></td>
+    </tr>
+  
+  <tr>
+     <td><img src="/screenshots/login.jpg" width=270 ></td>
+    <td><img src="/screenshots/backup-restore.jpg" width=270 ></td>
+    <td><img src="/screenshots/passcode.jpg" width=270 ></td>
+  </tr>
+ </table>
 ## Features
 
 - **Note Management**: Add, edit, and delete notes effortlessly.
 - **Favorites**: Mark important notes as favorites for quick access.
+- **Dark Mode & Light Mode**: Enjoy personalized viewing with adjustable dark and light modes.
 - **Passcode Lock**: Protect your notes with a passcode, keeping them safe from prying eyes.
 - **Cloud Backup**: Seamlessly backup and restore your notes to and from Firebase, allowing you to access your notes from anywhere at any time.
 
