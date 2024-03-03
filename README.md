@@ -19,6 +19,7 @@ Secure Privet Notes is a robust Flutter application designed to keep your notes 
     <td><img src="/screenshots/passcode.jpg" width=270 ></td>
   </tr>
  </table>
+ 
 ## Features
 
 - **Note Management**: Add, edit, and delete notes effortlessly.
